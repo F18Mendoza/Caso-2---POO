@@ -1,0 +1,9 @@
+package yate;
+
+public class Constantes {
+	public final static int baterias = 2;
+	public final static int paneles = 3;
+	
+	
+
+}
